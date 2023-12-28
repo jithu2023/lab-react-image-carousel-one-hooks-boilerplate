@@ -1,1 +1,50 @@
-/* write down the css for Carousel in this file */
+/* Carousel.css */
+
+.box {
+    text-align: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 80%;
+    max-width: 500px;
+    max-height: 400px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background-color: #f48b0b; 
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 40px;
+  }
+  
+
+  
+  .left {
+    margin-left: 10px;
+  }
+  
+  .right {
+    margin-right: 10px;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
